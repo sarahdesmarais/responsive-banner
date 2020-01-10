@@ -11,3 +11,9 @@ html {
   border-color: #97a49b;
   color: #fff;
 }
+
+.btn-ghost:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: #495562;
+}
