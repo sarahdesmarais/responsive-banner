@@ -1,5 +1,5 @@
 html {
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
 }
 
 .banner {
@@ -37,6 +37,7 @@ html {
   .banner-content {
     position: absolute;
     bottom: 0;
+    background-image: linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
   }
 
   .btn-ghost {
